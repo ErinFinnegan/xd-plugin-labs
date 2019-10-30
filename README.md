@@ -1,6 +1,7 @@
 # max-lab-2019
 
 Documentation: [https://adobexdplatform.com/](https://adobexdplatform.com/)
+Please leave feedback: [https://adobe.ly/xdapifeedback](https://adobe.ly/xdapifeedback)
 
 Further reading:
 
